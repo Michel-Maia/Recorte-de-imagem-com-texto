@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h1 {
+    font-size: 15vw;
+    background-image: url(https://images.unsplash.com/photo-1536940385103-c729049165e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBhcnR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
